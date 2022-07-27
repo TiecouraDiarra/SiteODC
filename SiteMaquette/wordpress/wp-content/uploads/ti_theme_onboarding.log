@@ -1,0 +1,23 @@
+[26/Jul/2022:10:28:39] (I): WordPress Instance Info:
+[26/Jul/2022:10:28:39] (I): Home URL : http://localhost/wordpress
+[26/Jul/2022:10:28:39] (I): Site URL : http://localhost/wordpress
+[26/Jul/2022:10:28:39] (I): WordPress Version : 6.0.1
+[26/Jul/2022:10:28:39] (I): Onboarding Version : 1.1.24
+[26/Jul/2022:10:28:39] (I): Multisite : No
+[26/Jul/2022:10:28:39] (I): Server Info : Apache/2.4.53 (Win64) OpenSSL/1.1.1n PHP/8.0.19
+[26/Jul/2022:10:28:39] (I): PHP Version : 8.0.19
+[26/Jul/2022:10:28:39] (I): HTTPS : No
+[26/Jul/2022:10:28:39] (I): PHP Max Execution Time : 120
+[26/Jul/2022:10:28:39] (I): PHP Max Input Vars : 1000
+[26/Jul/2022:10:28:39] (I): Max Upload Size : 41943040
+[26/Jul/2022:10:28:39] (I): Plugins:
+[26/Jul/2022:10:28:39] (I): [PLUGIN] Starter Templates : v3.1.13 (Brainstorm Force)
+[26/Jul/2022:10:28:39] (I): [PLUGIN] CartFlows : v1.10.2 (CartFlows Inc)
+[26/Jul/2022:10:28:39] (I): [PLUGIN] Checkout Plugins - Stripe for WooCommerce : v1.4.6 (Checkout Plugins)
+[26/Jul/2022:10:28:39] (I): [PLUGIN] Elementor : v3.6.7 (Elementor.com)
+[26/Jul/2022:10:28:39] (I): [PLUGIN] Envato Elements : v2.0.11 (Envato)
+[26/Jul/2022:10:28:39] (I): [PLUGIN] Presto Player : v1.9.12 (Presto Made, Inc)
+[26/Jul/2022:10:28:39] (I): [PLUGIN] Templates Patterns Collection : v1.1.24 (ThemeIsle)
+[26/Jul/2022:10:28:39] (I): [PLUGIN] Récupération d’abandon de panier WooCommerce : v1.2.18 (CartFlows Inc)
+[26/Jul/2022:10:28:39] (I): [PLUGIN] WooCommerce : v6.7.0 (Automattic)
+[26/Jul/2022:10:28:39] (I): [PLUGIN] WPForms Lite : v1.7.5.3 (WPForms)
